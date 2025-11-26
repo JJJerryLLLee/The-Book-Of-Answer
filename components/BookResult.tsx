@@ -21,7 +21,7 @@ const BookResult: React.FC<BookResultProps> = ({ page, onReset }) => {
              
              <div className="absolute top-6 left-6 right-6 bottom-6 border border-double border-neutral-400/30 p-8 flex flex-col justify-between">
                 <div className="text-center font-display text-neutral-400/50 text-sm tracking-widest">
-                    THE BOOK OF ANSWERS
+                    The Book Of Answers
                 </div>
                 <div className="flex-1"></div>
                 <div className="text-center font-display text-neutral-500 font-bold text-xl opacity-30">
